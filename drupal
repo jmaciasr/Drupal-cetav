@@ -1,0 +1,61 @@
+Drupal 1
+
+fields: los fields del core pueden extender su funcionalidad si se necesita
+
+Entity type: you create it, name it and give fileds 
+
+Nodo: created content 
+
+Taxonimia: it's a category => sub category is called Term
+
+Users: it has rol and permissions 
+
+Modules: it allows extend or create
+  there are:
+    core => never edit
+    contributed => never edit but you can extend 
+    custom => yours 
+
+Region: spaces defined into the theme to put nodos 
+
+Blocks: Entities than you can add to regions 
+
+Menu: menus
+
+Theme: all appearance oh site, onliy show content 
+
+====================
+
+Wiews: query to DB without doing code 
+
+Paths: Url Alias is the best way 
+
+Hooks: extend functions 
+
+==============================================================================================
+
+
+Drupal 2 
+
+
+==============================================================================================
+
+
+Drupal 3 
+
+Composer
+
+composer init
+composer i
+composer require vendor/name
+compser update -> update vendors 
+
+==============================================================================================
+
+
+Drupal 4 
+
+install module: 
+drupla.org -> buscar un modulo -> descargal -> dentro de la carpeta modulos -> creamos carpeta contrib -> metemos el archivo descomprimido
+
+Content types: 
